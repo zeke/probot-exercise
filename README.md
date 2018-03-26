@@ -11,7 +11,8 @@ Going through https://paper.dropbox.com/doc/Integrations-Coding-Interview-ayNIkT
 - recurrrrrsion! The failed issue created another failed issue, and so on :) Maybe I should have seen this coming. I definitely should have seen this coming, because the exercise notes warned that it would happen.
 - I am just checking the last 100 issue titles for duplicates... not foolproof but good enough for this purpose. Alternatively we do a GitHub API search for issues with the given title, which would probably be a cheaper call.
 - I wrote my probot app and error-handling module in the same repo for convenience.
-
+- I've made a few probots before, so I probably had an advantage out of the gate. Also I read this exersise summary a few days ago and had a bit of time to ponder it.
+- Tests were the hardest part. Not sure how to make @octokit/rest print out the API requests it's making, so I assembled all the mock data by hand.
 
 ## Time
 
