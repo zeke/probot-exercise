@@ -15,7 +15,7 @@ module.exports = robot => {
       context.log({err}, 'Reporting error')
 
       return reportError(context, {
-        title: 'Error while loading .github/config.yml',
+        title: 'Error loading .github/config.yml',
         body: 'It looks like there is an error in your `.github/config.yml:` file',
         err
       })
