@@ -24,3 +24,14 @@ duplicate error avoidance | 10 minutes
 cosmetics | 10 minutes
 tests | 30 minutes
 **total** | **90 minutes**
+
+## Pull Requests
+
+A few touchups I'm proposing after having been through this exercise:
+
+- [probot/template: add nodemon and new dev script](https://github.com/probot/template/pull/54)
+- [probot/template: update jest and add watch script](https://github.com/probot/template/pull/53)
+- [probot/template: use standard fix](https://github.com/probot/template/pull/52)
+- [probot/create-probot-app: add invocations to readme](https://github.com/probot/create-probot-app/pull/25)
+
+
